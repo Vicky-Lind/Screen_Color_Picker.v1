@@ -1,5 +1,6 @@
 <center>
-<img src="program.png" alt=>
+
+<img src="program.png" alt="image of the program"/>
 
 # 🎨 PyQt5-Screen-Color-Picker_v1 🖌
  A super simple screen color picker made with PyQt5.
